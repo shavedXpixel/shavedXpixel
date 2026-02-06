@@ -2,26 +2,37 @@
 <h1 align="center">👋 Hi, I'm Priyansu Dash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0F172A&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Real-World+Projects;Learning+Every+Day;Consistent+GitHub+Commits" />
+  <picture>
+    <!-- Light mode typing -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0F172A&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Vite+Frontend;Python+Flask+%7C+Django+Backend;Firebase+%7C+SQL+Databases;Building+Real-World+Systems"
+    />
+    <!-- Dark mode typing -->
+    <img
+      src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFE0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Vite+Frontend;Python+Flask+%7C+Django+Backend;Firebase+%7C+SQL+Databases;Building+Real-World+Systems"
+      alt="Typing animation"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-0f172a?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/◉%20SYSTEM%20ONLINE-00FFE0?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK-00FFE0?style=for-the-badge&labelColor=020617" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- ⚡ Interested in **real-time applications** and **modern web systems**
-- 🌑 Love **dark UI**, **clean architecture**, and **minimal design**
-- 🔧 Building projects with **React**, **Python**, and **Firebase**
-- 📈 Improving every day through consistent GitHub commits
+- ⚡ Focused on **real-time applications** and **modern web systems**
+- 🌑 Obsessed with **dark UI**, **clean architecture**, and **scalable code**
+- 🔧 Building with **React**, **Python**, and **Firebase**
+- 📈 Growing daily through consistent commits and real projects
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
 **Frontend**  
 React • Vite • HTML • CSS • JavaScript  
@@ -30,41 +41,42 @@ React • Vite • HTML • CSS • JavaScript
 Python • Flask • Django  
 
 **Database**  
-Firebase • SQL Server  
+Firebase • Microsoft SQL Server  
 
 **Tools**  
 Git • GitHub • VS Code  
 
 ---
 
-## 🧩 Selected Projects
+## 🧩 Projects
 
-- 🟣 Real-Time Chat Application (WhatsApp-Lite style)
-- 🟣 Train Booking System (Flask based)
-- 🟣 Authentication Systems (Login / Signup)
-- 🟣 Beginner → Intermediate Web Apps  
+- 🟣 Real-Time Chat Application (WhatsApp-Lite inspired)
+- 🟣 Train Booking System (Flask + SQL)
+- 🟣 Authentication Systems (Login / Signup / Roles)
+- 🟣 Full-Stack Practice Projects
 
-_More systems loading…_
+> More systems booting…
 
 ---
 
 ## 🛰️ GitHub Mission
 
-- Build real projects
-- Deploy applications online
-- Maintain consistent commits
+- Build production-ready applications
+- Deploy projects online
+- Maintain strong GitHub activity
 - Improve code quality step by step
 
 ---
 
 ## 🌐 Connect
 
-- GitHub: **@PriyansuDash**
-- Open to collaboration and learning
+- GitHub → **@PriyansuDash**
+- Open to collaboration and learning together
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFE0&height=90&section=footer" />
 </p>
+
 
