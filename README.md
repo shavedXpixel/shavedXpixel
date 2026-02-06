@@ -49,7 +49,7 @@ Git • GitHub • VS Code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyansuDash&show_icons=true&title_color=00FFE0&icon_color=00FFE0&text_color=E5E7EB&bg_color=00000000&border_color=00FFE0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyansuDash&show_icons=true&theme=dark" />
 </p>
 
 ---
