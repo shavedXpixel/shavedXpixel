@@ -2,12 +2,12 @@
 <h1 align="center">👋 Hi, I'm Priyansu Dash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&duration=2800&color=00FFE0&center=true&vCenter=true&width=620&lines=AI-Focused+Full-Stack+Developer;React+%2B+Vite+Frontend;Python+Flask+%7C+Django+Backend;Firebase+%2B+SQL+Server;Building+Real-World+Projects" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFE0?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/AI_CORE-ACTIVE-00FFE0?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-00FFE0?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/AI%20CORE-ACTIVE-00FFE0?style=for-the-badge&labelColor=020617" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Git • GitHub • VS Code
 
 ---
 
-## 📊 GitHub Stats (Animated SVG)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyansuDash&show_icons=true&title_color=00FFE0&icon_color=00FFE0&text_color=E5E7EB&bg_color=00000000&border_color=00FFE0" />
@@ -55,5 +55,5 @@ Git • GitHub • VS Code
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFE0&height=100&section=footer" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
 </p>
