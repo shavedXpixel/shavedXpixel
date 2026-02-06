@@ -2,40 +2,29 @@
 <h1 align="center">👋 Hi, I'm Priyansu Dash</h1>
 
 <p align="center">
-  <picture>
-    <!-- Light mode typing -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0F172A&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Vite+Frontend;Python+Flask+%7C+Django+Backend;Firebase+%7C+SQL+Databases;Building+Real-World+Systems"
-    />
-    <!-- Dark mode typing -->
-    <img
-      src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFE0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Vite+Frontend;Python+Flask+%7C+Django+Backend;Firebase+%7C+SQL+Databases;Building+Real-World+Systems"
-      alt="Typing animation"
-    />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&duration=2800&color=00FFE0&center=true&vCenter=true&width=620&lines=AI-Focused+Full-Stack+Developer;React+%2B+Vite+Frontend;Python+Flask+%7C+Django+Backend;Firebase+%2B+SQL+Server;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/◉%20SYSTEM%20ONLINE-00FFE0?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK-00FFE0?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFE0?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/AI_CORE-ACTIVE-00FFE0?style=for-the-badge&labelColor=020617" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- ⚡ Focused on **real-time applications** and **modern web systems**
-- 🌑 Obsessed with **dark UI**, **clean architecture**, and **scalable code**
-- 🔧 Building with **React**, **Python**, and **Firebase**
-- 📈 Growing daily through consistent commits and real projects
+- Full-stack developer focused on real-world applications  
+- Interested in real-time systems and authentication  
+- Prefer dark UI, clean architecture, and scalable code  
+- Improving daily through consistent GitHub commits  
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Frontend**  
-React • Vite • HTML • CSS • JavaScript  
+HTML • CSS • JavaScript • React • Vite  
 
 **Backend**  
 Python • Flask • Django  
@@ -50,33 +39,21 @@ Git • GitHub • VS Code
 
 ## 🧩 Projects
 
-- 🟣 Real-Time Chat Application (WhatsApp-Lite inspired)
-- 🟣 Train Booking System (Flask + SQL)
-- 🟣 Authentication Systems (Login / Signup / Roles)
-- 🟣 Full-Stack Practice Projects
-
-> More systems booting…
+- Real-Time Chat Application  
+- Train Booking System  
+- Authentication Systems  
+- Full-Stack Practice Projects  
 
 ---
 
-## 🛰️ GitHub Mission
+## 📊 GitHub Stats (Animated SVG)
 
-- Build production-ready applications
-- Deploy projects online
-- Maintain strong GitHub activity
-- Improve code quality step by step
-
----
-
-## 🌐 Connect
-
-- GitHub → **@PriyansuDash**
-- Open to collaboration and learning together
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyansuDash&show_icons=true&title_color=00FFE0&icon_color=00FFE0&text_color=E5E7EB&bg_color=00000000&border_color=00FFE0" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFE0&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFE0&height=100&section=footer" />
 </p>
-
-
