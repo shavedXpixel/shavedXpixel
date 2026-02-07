@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/fe95b596-ea28-4d64-a044-cbf50a35f6d6) ![Image](https://github.com/user-attachments/assets/e0be998a-ed94-438a-abcf-dcbd334d88f4)
+![Image](https://github.com/user-attachments/assets/c580d157-4813-43e7-a2f2-a4273bd7e2f2)
 <h1 align="center">👋 Hi, I'm Priyansu Dash</h1>
 
 <p align="center">
