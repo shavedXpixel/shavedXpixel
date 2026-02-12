@@ -38,9 +38,10 @@
 
 <pre>
 ⚡ Real-Time Chat Application
-🚆 Train Booking System
+🎓 College Management Sytem
 🔐 Authentication Systems
 🧪 Full-Stack Practice Projects
+📊 Price Comparison System
 </pre>
 
 <p align="center"><b>📊 GitHub Activity</b></p>
