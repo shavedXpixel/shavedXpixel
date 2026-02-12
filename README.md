@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c580d157-4813-43e7-a2f2-a4273bd7e2f2" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Priyansu Dash</h1>
 
 <p align="center">
