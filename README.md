@@ -1,171 +1,463 @@
-<!-- Hero Header & Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=200&section=header&text=Priyansu%20Dash&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
-</div>
+<!-- ════════════════════════════════════════════════════════════════════════════ -->
+<!--                                                                          -->
+<!--                         P R I Y A N S U   D A S H                        -->
+<!--                           @shavedXpixel                                  -->
+<!--                                                                          -->
+<!--                  Full Stack Developer · AI Enthusiast                     -->
+<!--                                                                          -->
+<!-- ════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://priyansu.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Priyansu+Dash;Full+Stack+Developer;AI+Enthusiast;Building+Modern+Web+Experiences;Always+Learning;Always+Building" alt="Typing SVG" />
-  </a>
-</div>
 
-<!-- About Me -->
-<div align="center">
-  <h3>✦ About Me ✦</h3>
-  <p>I am a <b>Full Stack Developer</b>, <b>AI Enthusiast</b>, and <b>CSE-DS Student</b> passionate about crafting premium, modern web experiences.<br/>I thrive on problem-solving, exploring new technologies, and building intelligent, high-performance applications.</p>
-</div>
-
-<!-- Current Focus -->
-<div align="center">
-  <h3>✦ Current Focus ✦</h3>
-  <p>Modern Web Apps <b>&bull;</b> AI Projects <b>&bull;</b> Open Source <b>&bull;</b> Cloud Technologies</p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050507,50:1a1a2e,100:8B5CF6&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- Tech Stack -->
-<div align="center">
-  <h3>✦ Tech Stack ✦</h3>
-  <br/>
-  <b>Frontend</b><br/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <br/><br/>
-  <b>Backend</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <br/><br/>
-  <b>Database</b><br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <br/><br/>
-  <b>Tools</b><br/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <br/><br/>
-  <b>AI</b><br/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</div>
+<!-- ─── TYPING SVG ─── -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Modern+Digital+Experiences.;Engineering+AI-Powered+Solutions." alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- GitHub Trophy -->
-<div align="center">
-  <h3>✦ Trophies ✦</h3>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-profile-trophy.vercel.app/?username=shavedXpixel&theme=dracula&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<!-- GitHub Analytics -->
-<div align="center">
-  <h3>✦ GitHub Analytics ✦</h3>
-  <br/>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-readme-stats.vercel.app/api?username=shavedXpixel&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shavedXpixel&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavedXpixel&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <h3>✦ Contribution Activity ✦</h3>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shavedXpixel&theme=dracula&hide_border=true" alt="Contribution Graph" width="98%" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Featured Projects -->
-<div align="center">
-  <h3>✦ Featured Projects ✦</h3>
-  <table align="center" border="0" width="90%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🛒 <a href="https://github.com/shavedXpixel" style="text-decoration: none; color: inherit;">E-commerce Platform</a></h3>
-        <p>Modern, scalable e-commerce solution engineered with Next.js, Tailwind CSS, and headless architecture.</p>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>🌐 <a href="https://priyansu.me" style="text-decoration: none; color: inherit;">Portfolio Space</a></h3>
-        <p>Premium personal brand portfolio showcasing high-end design principles and interactive components.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🧠 <a href="https://github.com/shavedXpixel" style="text-decoration: none; color: inherit;">AI Integrations</a></h3>
-        <p>Intelligent applications leveraging OpenAI APIs and custom TensorFlow model fine-tuning.</p>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>🏷️ <a href="https://github.com/shavedXpixel" style="text-decoration: none; color: inherit;">Price Comparison Hub</a></h3>
-        <p>Real-time automated product scraping and price comparison system built on Node.js and Python.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=%22Design+is+not+just+what+it+looks+like+and+feels+like.+Design+is+how+it+works.%22+%E2%80%94+Steve+Jobs;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson" alt="Quote" />
-</div>
-
-<br/>
-
-<!-- Connect With Me -->
-<div align="center">
-  <h3>✦ Connect With Me ✦</h3>
-  <a href="https://linkedin.com/in/shavedxpixel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://priyansu.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:contact@priyansu.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=4000&pause=2000&color=C8CBD4&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Always+Learning.+Always+Building.+Always+Shipping." alt="Subtitle" />
 
 <br/><br/>
 
-<!-- Footer -->
-<div align="center">
-  <p>Thank you for visiting my profile! Let's build something amazing together.</p>
-  <img src="https://komarev.com/ghpvc/?username=shavedXpixel&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
+<!-- ─── SOCIAL BADGES ─── -->
+
+<a href="https://priyansu.me">
+  <img src="https://img.shields.io/badge/Portfolio-priyansu.me-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101014" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/shavedxpixel">
+  <img src="https://img.shields.io/badge/LinkedIn-shavedxpixel-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101014" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/shavedXpixel">
+  <img src="https://img.shields.io/badge/GitHub-shavedXpixel-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=101014" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shavedXpixel&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
+
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## &nbsp; About Me
+
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavedXpixel&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=C8CBD4&ring_color=8B5CF6&langs_count=6" alt="Top Languages" />
+
+I'm **Priyansu Dash** — a Computer Science (Data Science) student and full stack developer based in **India**, building at the intersection of modern web technologies and artificial intelligence.
+
+I approach engineering the way a product designer approaches interfaces: every line of code should be **intentional**, every architecture decision should serve the **end user**, and every system should be built to **scale**.
+
+My work spans the full stack — from pixel-perfect frontend experiences with **Next.js** and **TypeScript**, to robust backend systems with **Node.js** and **Python**, to intelligent applications powered by **computer vision** and **machine learning**.
+
+When I'm not writing code, I'm probably exploring new frameworks, reading about system design, or working on my next side project.
+
+<br clear="right"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## &nbsp; Current Focus
+
+<table>
+  <tr>
+    <td width="50%">
+
+&nbsp; **◈ Learning**
+> Advanced AI/ML architectures, system design patterns, and cloud-native development
+
+&nbsp; **◈ Building**
+> Full stack applications with Next.js, TypeScript, and AI-powered features
+
+&nbsp; **◈ Exploring**
+> Computer vision, real-time tracking systems, and predictive analytics
+
+    </td>
+    <td width="50%">
+
+&nbsp; **◈ Researching**
+> Large language model integrations, intelligent automation, and data science
+
+&nbsp; **◈ Deploying**
+> Production applications on Vercel and cloud platforms
+
+&nbsp; **◈ Open Source**
+> Contributing to tools and frameworks that push the web forward
+
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## &nbsp; Tech Stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=footer" alt="Footer Wave" />
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101014)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101014)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101014)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101014)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101014)
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white&labelColor=101014)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101014)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101014)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101014)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=101014)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=101014)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101014)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101014)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101014)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101014)
+
+### AI & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101014)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=101014)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white&labelColor=101014)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101014)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101014)
+
+### DevOps & Tools
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101014)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101014)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101014)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=101014)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101014)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## &nbsp; Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒&ensp;Ecommerce Store
+<p><em>Modern, scalable e-commerce platform</em></p>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Full-featured e-commerce solution with headless architecture, dynamic product pages, and responsive design. Deployed on Vercel.
+
+<a href="https://github.com/shavedXpixel/Ecommerce-Store-Website"><img src="https://img.shields.io/badge/Source-101014?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ecommerce-store-website-blond.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+<td width="50%">
+
+### 🧠&ensp;Price AI
+<p><em>AI-powered price tracking & comparison</em></p>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+
+Intelligent price tracking platform with automated scraping, real-time comparisons, and AI-driven insights. Production deployment.
+
+<a href="https://github.com/shavedXpixel/price-ai"><img src="https://img.shields.io/badge/Source-101014?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://futureshop.online"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️&ensp;Face & Hand Tracking
+<p><em>Real-time computer vision system</em></p>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![CV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+Real-time face and hand tracking application leveraging MediaPipe and computer vision for gesture recognition and facial landmark detection.
+
+<a href="https://github.com/shavedXpixel/face-hand-tracking"><img src="https://img.shields.io/badge/Source-101014?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%">
+
+### ✨&ensp;Animated Portfolio
+<p><em>Premium interactive personal brand</em></p>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+High-end animated portfolio featuring smooth page transitions, interactive 3D elements, and modern design principles.
+
+<a href="https://github.com/shavedXpixel/Priyansu-animated-portfolio"><img src="https://img.shields.io/badge/Source-101014?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://priyansu-animated-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️‍🗨️&ensp;VisionSystem
+<p><em>Computer vision & AI pipeline</em></p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+Comprehensive vision system built with Python, integrating object detection, image processing, and AI model pipelines.
+
+<a href="https://github.com/shavedXpixel/VisionSystem"><img src="https://img.shields.io/badge/Source-101014?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%">
+
+### 💬&ensp;WhatsApp Lite
+<p><em>Real-time messaging application</em></p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+Full-featured real-time messaging platform with live chat, user presence, and responsive mobile-first interface.
+
+<a href="https://github.com/shavedXpixel/whatsapp-lite"><img src="https://img.shields.io/badge/Source-101014?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://whatsapp-lite-personal.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖&ensp;AI CRM
+<p><em>Intelligent customer relationship manager</em></p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+
+AI-powered CRM system with intelligent lead scoring, automated workflows, and smart customer insights.
+
+<a href="https://github.com/shavedXpixel/ai-crm"><img src="https://img.shields.io/badge/Source-101014?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%">
+
+### 📊&ensp;Stock Predictor
+<p><em>ML-powered financial forecasting</em></p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+Stock price prediction system using machine learning models and historical data analysis for financial forecasting.
+
+<a href="https://github.com/shavedXpixel/stock-predictor"><img src="https://img.shields.io/badge/Source-101014?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>&nbsp; More Projects →</b></summary>
+
+<br/>
+
+| Project | Tech | Description | Links |
+|---------|------|-------------|-------|
+| **mini-redis** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Lightweight Redis implementation from scratch | [Source](https://github.com/shavedXpixel/mini-redis) |
+| **NeonOptic** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Computer vision with neon-styled visual processing | [Source](https://github.com/shavedXpixel/NeonOptic) |
+| **Weather Prediction** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ML-based weather forecasting system | [Source](https://github.com/shavedXpixel/weather-prediction-internship) |
+| **ExamSystem** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Online examination platform | [Source](https://github.com/shavedXpixel/ExamSystem) · [Demo](https://exam-system-blond.vercel.app) |
+| **Flight System** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Flight booking & management system | [Source](https://github.com/shavedXpixel/flight-system) · [Demo](https://flight-system-sandy.vercel.app) |
+| **She Can Foundation** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Non-profit organization website | [Source](https://github.com/shavedXpixel/she_can_foundation) · [Demo](https://she-can-foundation-sandy-delta.vercel.app) |
+| **Volunteer Registration** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Volunteer management platform | [Source](https://github.com/shavedXpixel/VolunteerRegistration) · [Demo](https://volunteer-registration-eta.vercel.app) |
+| **Price Compare** | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Price comparison website with scraping | [Source](https://github.com/shavedXpixel/price_compare) · [Demo](https://priyansu123.pythonanywhere.com) |
+| **Portfolio 3D** | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | 3D interactive portfolio with Three.js | [Source](https://github.com/shavedXpixel/portfolio-3d) · [Demo](https://priyansu.me) |
+
+</details>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## &nbsp; GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/shavedXpixel">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shavedXpixel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=A855F7&text_color=C8CBD4&ring_color=8B5CF6&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shavedXpixel">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shavedXpixel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=C8CBD4&dates=C8CBD4&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/shavedXpixel">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shavedXpixel&bg_color=0d1117&color=C8CBD4&line=8B5CF6&point=A855F7&area=true&area_color=8B5CF620&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/shavedXpixel">
+  <img src="https://github-profile-trophy.vercel.app/?username=shavedXpixel&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="Trophies" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## &nbsp; Development Philosophy
+
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║    ◈  Write code that reads like well-structured prose           ║
+  ║    ◈  Architecture should serve the product, not the ego         ║
+  ║    ◈  Ship fast, iterate faster, learn fastest                   ║
+  ║    ◈  Performance is a feature, not an afterthought              ║
+  ║    ◈  Every interface deserves thoughtful design                 ║
+  ║    ◈  Scalability starts at the first commit                     ║
+  ║    ◈  Tests are documentation that never lies                    ║
+  ║    ◈  Open source makes everyone better                          ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## &nbsp; Open Source
+
+I believe open source is the backbone of modern software. Every project I build is an opportunity to give back — whether it's a complete application, a utility library, or a thoughtful contribution upstream.
+
+My repositories are structured to be **readable**, **well-documented**, and **easy to fork**. If something I've built helps you ship faster or learn something new, that's the whole point.
+
+Currently focused on contributing to **web tooling**, **AI/ML frameworks**, and **developer experience** projects. Always open to collaborating on ideas that push the ecosystem forward.
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## &nbsp; Let's Connect
+
+<div align="center">
+
+<p>Whether you're looking for a collaborator, have an interesting project idea, or just want to talk tech — I'm always open to connecting.</p>
+
+<br/>
+
+<a href="https://priyansu.me">
+  <img src="https://img.shields.io/badge/◈_Portfolio-priyansu.me-8B5CF6?style=for-the-badge&labelColor=101014" alt="Portfolio" />
+</a>
+&ensp;
+<a href="https://linkedin.com/in/shavedxpixel">
+  <img src="https://img.shields.io/badge/◈_LinkedIn-shavedxpixel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101014" alt="LinkedIn" />
+</a>
+&ensp;
+<a href="https://github.com/shavedXpixel">
+  <img src="https://img.shields.io/badge/◈_GitHub-shavedXpixel-F8FAFC?style=for-the-badge&logo=github&logoColor=white&labelColor=101014" alt="GitHub" />
+</a>
+&ensp;
+<a href="mailto:pupuhari123@gmail.com">
+  <img src="https://img.shields.io/badge/◈_Email-contact@priyansu.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101014" alt="Email" />
+</a>
+
+<br/><br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,50:1a1a2e,100:8B5CF6&height=120&section=footer&animation=fadeIn" width="100%" />
+
+<br/>
+
+<sub>
+
+**Designed with precision.**&ensp;Built with purpose.&ensp;Shipped with care.
+
+</sub>
+
+<br/>
+
+<sub>
+
+◈&ensp;**Priyansu Dash**&ensp;·&ensp;[@shavedXpixel](https://github.com/shavedXpixel)&ensp;·&ensp;[priyansu.me](https://priyansu.me)&ensp;◈
+
+</sub>
+
 </div>
