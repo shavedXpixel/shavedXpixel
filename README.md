@@ -71,7 +71,7 @@
 <div align="center">
   <h3>✦ Trophies ✦</h3>
   <a href="https://github.com/shavedXpixel">
-    <img src="https://github-profile-trophy.vercel.app/?username=shavedXpixel&theme=dracula&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shavedXpixel&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
