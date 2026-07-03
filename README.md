@@ -70,8 +70,8 @@
 <!-- GitHub Trophy -->
 <div align="center">
   <h3>✦ Trophies ✦</h3>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-profile-trophy.vercel.app/?username=shavedXpixel&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/shavedxpixel">
+    <img src="https://github-profile-trophy.vercel.app/?username=shavedxpixel&theme=dracula&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -81,15 +81,15 @@
 <div align="center">
   <h3>✦ GitHub Analytics ✦</h3>
   <br/>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-readme-stats.vercel.app/api?username=shavedXpixel&show_icons=true&hide_border=true&bg_color=000000&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/shavedxpixel">
+    <img src="https://github-readme-stats.vercel.app/api?username=shavedxpixel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&v=1" alt="GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shavedXpixel&hide_border=true&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/shavedxpixel">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shavedxpixel&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&v=1" alt="GitHub Streak" width="48%" />
   </a>
   <br/><br/>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavedXpixel&layout=compact&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" alt="Top Languages" width="48%" />
+  <a href="https://github.com/shavedxpixel">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavedxpixel&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&v=1" alt="Top Languages" width="48%" />
   </a>
 </div>
 
@@ -98,8 +98,8 @@
 <!-- Contribution Graph -->
 <div align="center">
   <h3>✦ Contribution Activity ✦</h3>
-  <a href="https://github.com/shavedXpixel">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shavedXpixel&bg_color=000000&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
+  <a href="https://github.com/shavedxpixel">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shavedxpixel&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true&v=1" alt="Contribution Graph" width="98%" />
   </a>
 </div>
 
@@ -111,7 +111,7 @@
   <table align="center" border="0" width="90%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>🛒 <a href="https://github.com/shavedXpixel" style="text-decoration: none; color: inherit;">E-commerce Platform</a></h3>
+        <h3>🛒 <a href="https://github.com/shavedxpixel" style="text-decoration: none; color: inherit;">E-commerce Platform</a></h3>
         <p>Modern, scalable e-commerce solution engineered with Next.js, Tailwind CSS, and headless architecture.</p>
       </td>
       <td width="50%" align="center" valign="top">
@@ -121,11 +121,11 @@
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>🧠 <a href="https://github.com/shavedXpixel" style="text-decoration: none; color: inherit;">AI Integrations</a></h3>
+        <h3>🧠 <a href="https://github.com/shavedxpixel" style="text-decoration: none; color: inherit;">AI Integrations</a></h3>
         <p>Intelligent applications leveraging OpenAI APIs and custom TensorFlow model fine-tuning.</p>
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>🏷️ <a href="https://github.com/shavedXpixel" style="text-decoration: none; color: inherit;">Price Comparison Hub</a></h3>
+        <h3>🏷️ <a href="https://github.com/shavedxpixel" style="text-decoration: none; color: inherit;">Price Comparison Hub</a></h3>
         <p>Real-time automated product scraping and price comparison system built on Node.js and Python.</p>
       </td>
     </tr>
@@ -150,7 +150,7 @@
   <a href="https://priyansu.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/shavedXpixel">
+  <a href="https://github.com/shavedxpixel">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:contact@priyansu.me">
@@ -163,7 +163,7 @@
 <!-- Footer -->
 <div align="center">
   <p>Thank you for visiting my profile! Let's build something amazing together.</p>
-  <img src="https://komarev.com/ghpvc/?username=shavedXpixel&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=shavedxpixel&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </div>
 
 <div align="center">
